@@ -9,3 +9,5 @@ Items Attatched:
 -Python code for music genre detection
 
 -Presentation on results and key findings from project
+
+-Biliography of the dataset used on Kaggle
