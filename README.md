@@ -4,7 +4,7 @@ For my final project I read in a Kaggle dataset of music artists and their song 
 
 Items Attatched:
 
--Word document containing analysis of the code and findings
+-PDF report containing analysis of the code and findings
 
 -Python code for music genre detection
 
